@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.counter {
+  width: 25%;
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
